@@ -1,0 +1,29 @@
+{
+  "id": "4875893475943",
+  "firstName": "User",
+  "lastName": "Name",
+  "userType": {
+    "id": "1",
+    "name": "SimpleUser"
+  },
+  "userContactMethods": [
+    {
+      "id": "8789789899",
+      "name": "8-(111)-333-4444",
+      "methodType": {
+        "id": "11",
+        "domain": "+7",
+        "name": "Phone"
+      }
+    },
+    {
+      "id": "809876679",
+      "name": "aaa@lll.com",
+      "methodType": {
+        "id": "22",
+        "domain": "lll.com",
+        "name": "Mail"
+      }
+    }
+  ]
+}
